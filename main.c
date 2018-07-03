@@ -4,11 +4,11 @@ int main()
 {
 	int a, b, c;
 
-	a =1;
-	b=2;
-	c=3;
+	one=1;
+	two=2;
+	three=3;
 
-	printf("%d, %d, %d\n", a,b,c);
+	printf("%d, %d, %d\n", one,two,three);
 
 	return o;
 }
